@@ -1,0 +1,8 @@
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/ink/release/deps/block_buffer-59b3ead1a5e15965.rmeta: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/sealed.rs
+
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/ink/release/deps/libblock_buffer-59b3ead1a5e15965.rlib: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/sealed.rs
+
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/ink/release/deps/block_buffer-59b3ead1a5e15965.d: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/sealed.rs
+
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/lib.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/sealed.rs:

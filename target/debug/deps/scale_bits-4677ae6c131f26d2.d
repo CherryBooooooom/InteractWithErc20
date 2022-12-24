@@ -1,0 +1,12 @@
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/scale_bits-4677ae6c131f26d2.rmeta: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/bits/mod.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/bits/bits.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/bits/serde.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/scale/mod.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/scale/decode_iter.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/scale/encode_iter.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/scale/format.rs
+
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/scale_bits-4677ae6c131f26d2.d: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/bits/mod.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/bits/bits.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/bits/serde.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/scale/mod.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/scale/decode_iter.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/scale/encode_iter.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/scale/format.rs
+
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/lib.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/bits/mod.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/bits/bits.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/bits/serde.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/scale/mod.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/scale/decode_iter.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/scale/encode_iter.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/scale-bits-0.3.0/src/scale/format.rs:

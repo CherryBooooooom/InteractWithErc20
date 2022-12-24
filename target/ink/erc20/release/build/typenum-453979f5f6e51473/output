@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/ink/erc20/release/build/typenum-453979f5f6e51473/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/ink/erc20/release/build/typenum-453979f5f6e51473/out/op.rs

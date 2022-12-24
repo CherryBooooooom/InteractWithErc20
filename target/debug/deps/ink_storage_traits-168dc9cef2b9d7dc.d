@@ -1,0 +1,9 @@
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/ink_storage_traits-168dc9cef2b9d7dc.rmeta: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/impls/mod.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/storage.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/layout/mod.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/layout/impls.rs
+
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/ink_storage_traits-168dc9cef2b9d7dc.d: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/impls/mod.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/storage.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/layout/mod.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/layout/impls.rs
+
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/lib.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/impls/mod.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/storage.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/layout/mod.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.0.0-beta/src/layout/impls.rs:

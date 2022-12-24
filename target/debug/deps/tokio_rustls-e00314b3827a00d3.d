@@ -1,0 +1,11 @@
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/tokio_rustls-e00314b3827a00d3.rmeta: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/client.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/mod.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/handshake.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/server.rs
+
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/libtokio_rustls-e00314b3827a00d3.rlib: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/client.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/mod.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/handshake.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/server.rs
+
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/tokio_rustls-e00314b3827a00d3.d: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/client.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/mod.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/handshake.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/server.rs
+
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/lib.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/client.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/mod.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/handshake.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/server.rs:

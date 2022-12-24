@@ -1,0 +1,11 @@
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/hyper_rustls-72a301ceedd5d196.rmeta: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/config.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/connector.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/connector/builder.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/stream.rs
+
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/libhyper_rustls-72a301ceedd5d196.rlib: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/config.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/connector.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/connector/builder.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/stream.rs
+
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/hyper_rustls-72a301ceedd5d196.d: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/config.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/connector.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/connector/builder.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/stream.rs
+
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/lib.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/config.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/connector.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/connector/builder.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.1/src/stream.rs:

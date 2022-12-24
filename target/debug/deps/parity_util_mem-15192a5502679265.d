@@ -1,0 +1,10 @@
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/parity_util_mem-15192a5502679265.rmeta: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/allocators.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/sizeof.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/malloc_size.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/primitives_impls.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/memory_stats_noop.rs
+
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/parity_util_mem-15192a5502679265.d: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/allocators.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/sizeof.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/malloc_size.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/primitives_impls.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/memory_stats_noop.rs
+
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/lib.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/allocators.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/sizeof.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/malloc_size.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/primitives_impls.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/memory_stats_noop.rs:

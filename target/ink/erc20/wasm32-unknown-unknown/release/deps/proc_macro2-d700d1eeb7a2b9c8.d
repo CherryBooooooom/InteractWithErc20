@@ -1,0 +1,11 @@
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/ink/erc20/wasm32-unknown-unknown/release/deps/proc_macro2-d700d1eeb7a2b9c8.rmeta: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/marker.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/parse.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/rcvec.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/fallback.rs
+
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/ink/erc20/wasm32-unknown-unknown/release/deps/libproc_macro2-d700d1eeb7a2b9c8.rlib: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/marker.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/parse.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/rcvec.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/fallback.rs
+
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/ink/erc20/wasm32-unknown-unknown/release/deps/proc_macro2-d700d1eeb7a2b9c8.d: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/marker.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/parse.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/rcvec.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/fallback.rs
+
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/lib.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/marker.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/parse.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/rcvec.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/fallback.rs:

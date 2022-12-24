@@ -1,0 +1,1 @@
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/ink/wasm32-unknown-unknown/release/testERC.wasm: /Users/angie/Documents/CherryBooooooom/InteractWithErc20/erc20/lib.rs /Users/angie/Documents/CherryBooooooom/InteractWithErc20/lib.rs

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/build/typenum-d1b1bd7e02da2aa7/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/build/typenum-d1b1bd7e02da2aa7/out/op.rs

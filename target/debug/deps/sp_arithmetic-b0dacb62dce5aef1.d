@@ -1,0 +1,11 @@
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/sp_arithmetic-b0dacb62dce5aef1.rmeta: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/biguint.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/fixed_point.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/helpers_128bit.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/per_things.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/rational.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/traits.rs
+
+/Users/angie/Documents/CherryBooooooom/InteractWithErc20/target/debug/deps/sp_arithmetic-b0dacb62dce5aef1.d: /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/lib.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/biguint.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/fixed_point.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/helpers_128bit.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/per_things.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/rational.rs /Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/traits.rs
+
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/lib.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/biguint.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/fixed_point.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/helpers_128bit.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/per_things.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/rational.rs:
+/Users/angie/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-arithmetic-6.0.0/src/traits.rs:
